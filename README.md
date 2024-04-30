@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+[![MasterHead](https://flutterawesome.com/content/images/2018/10/Animated-Text-Kit.gif)
 
 
 <h1 align="center">Hi 👋, I'm Basit Ali</h1>
