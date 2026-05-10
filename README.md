@@ -51,35 +51,13 @@ Passionate mobile app developer focused on building high-performance cross-platf
 ## 🌐 Connect with me
 
 <p align="left">
-
-<a href="https://twitter.com/basital50809354" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/basit-ali-734507289/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
-</a>
-
-<a href="https://stackoverflow.com/users/19052470" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.instagram.com/basit_aly_official/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.facebook.com/basitali.ali.7587" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.behance.net/basitali42" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" height="40"/>
-</a>
-
-<a href="https://medium.com/@basitalyshah51214" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/>
-</a>
-
+<a href="https://twitter.com/basital50809354" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/basit-ali-734507289/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/19052470" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/basit_aly_official/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/basitali.ali.7587" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.behance.net/basitali42" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://medium.com/@basitalyshah51214" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -87,55 +65,18 @@ Passionate mobile app developer focused on building high-performance cross-platf
 ## 🛠 Languages and Tools
 
 <p align="left">
-
-<a href="https://flutter.dev/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://dart.dev/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.apple.com/swift/" target="_blank">
-  <img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="40" height="40"/>
-</a>
-
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank">
-  <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
+<a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://dart.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/swift/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swift/swift-64x64_2x.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://supabase.com/" target="_blank"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
 ---
