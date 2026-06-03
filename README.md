@@ -30,7 +30,7 @@ Passionate mobile app developer focused on building high-performance cross-platf
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **SwiftUi**
+- 🔭 I’m currently working on **Xium**
 
 - 🌱 I’m currently learning **SwiftUI & iOS Development**
 
