@@ -14,11 +14,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ba138&theme=algolia&no-frame=true&column=7&margin-w=8" alt="trophies" />
   </a>
-</p>
+</p> -->
 
 ---
 
